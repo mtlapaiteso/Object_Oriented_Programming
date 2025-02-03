@@ -1,6 +1,4 @@
 # Object_Oriented_Programming
-I am Miguel Tlapa, and I have more than one decade of programming experience.
-
 Welcome to this repository, where you will practice your theorical class implementing Python Code.
 Your will practice programming skills in Object Oriented Programming
 
