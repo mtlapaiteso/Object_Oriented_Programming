@@ -112,5 +112,6 @@ def aprobados_suspensos(calificaciones):
 print(añadir_nota_final(calificaciones('calificaciones.csv')))
 aprobados, suspensos = aprobados_suspensos(añadir_nota_final(calificaciones('calificaciones.csv')))
 print('Lista de aprobados:', aprobados)
+print("··················································")
 print('Lista de suspensos:', suspensos)
 
